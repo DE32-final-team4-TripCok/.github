@@ -1,5 +1,4 @@
 # 📍 Tripcok 트립콕 📍
- [![Watch the video](images/Tripcok_readme.png)](https://youtube.com/shorts/Xh30qyct_4E?feature=share)
 ---
 
 ## **📌 프로젝트 목표**
