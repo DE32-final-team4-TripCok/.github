@@ -21,7 +21,7 @@
 | **관리자 페이지** | 데이터 집계를 모니터링하기           |   [Watch the Video]()                                                     |
 
 
-
+### 깃헙 레포 : https://github.com/TripCok
 
 ## 📚 기술스택
 Data Engineering
